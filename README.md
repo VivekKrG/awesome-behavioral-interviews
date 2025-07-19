@@ -39,19 +39,32 @@ STAR stands for Situation, Task, Action, and Result.
 Here are a few more common behavioral interview questions along with STAR-based responses:
 1. Tell me about a time when you had to solve a complex technical problem.
    - **Situation:** "While working as a software engineer at Company X..."
+   - cdac, PE, major table data loading issue in Central Vista Project
    - **Task:** "I was tasked with resolving a critical performance issue..."
+   - slow loading, 1 min loading time
    - **Action:** "I began by analyzing the codebase and identifying the root cause of the problem..."
+   - there was inner loop in query, causing O(n^2) Time complexity, analysed using explain analyze PG query tool
    - **Result:** "As a result of my efforts, we saw a 40% improvement in system performance, leading to faster response times and increased customer satisfaction."
+   - resolved the issue, loading less than 1 sec.
 1. Describe a situation where you had to work as part of a team to achieve a common goal.
    - **Situation:** "During my tenure as a member of the development team at Company Y..."
+   - 1. CDAC, PE, Central Vista/CMRL project, Building system-user registration and authentication service
+     2. Onec a card issued, how to handle handle card-lost, wear-tear=damage, re-print functionality, showing records of issued cards, logs related to it 
    - **Task:** "Our goal was to deliver a major software release on schedule..."
+   - 1. Implement User reg., role assignment, and authentication service 
+   - 2. Card Re-issuance flow, service request, approval flow   
    - **Action:** "I collaborated closely with my team members, participating in daily stand-ups, code reviews, and pair programming sessions..."
+   - designed a flow, discussed with team, analysed solution, made improvements
    - **Result:** "Thanks to our teamwork, we successfully delivered the release on time, resulting in positive feedback from stakeholders and increased user adoption."
 1. Can you share an example of a time when you had to adapt to a rapidly changing project requirement?
    - **Situation:** "While working on a mobile app project at Company Z..."
+   - CDAC PE, Central Vista Project, Visitor Module, various types of visitor to be handled, data fileds varies, req. flow changes 
    - **Task:** "The client requested several last-minute changes to the app's user interface design..."
+   - need to have a functional to adapt changing req.
    - **Action:** "I quickly organized a meeting with the design and development teams to discuss the changes and their feasibility within the timeline..."
+   - Analyzed the req, analyzed current developments, came up with the solution to adpat and add a feature, created the API for req. flow as required
    - **Result:** "We successfully implemented the design changes without delaying the project, and the app received positive reviews from users."
+   - completed within time, not affected the existing solutions, minimal changes
 
 ## ⚙️ Behavioral Interview Preparation Grid
 This format is inspired by the book "Cracking the Coding Interview" by Gayle Laakman McDowell.
