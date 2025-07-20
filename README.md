@@ -154,6 +154,16 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
         <b>Result: </b>The bug was fixed and an updated version of the app was released within 24 hours. While the initial release did cause some user frustration, my prompt response and communication with the affected users helped mitigate the situation. This experience was a humbling lesson in the importance of maintaining rigorous quality standards, regardless of time pressures. It also highlighted the value of thorough testing and the need to balance speed with reliability in software development. Since then, I have been more diligent in my testing processes, contributing to higher overall quality in subsequent releases.
     </li>
 </ul>
+  <p><b>Situation:</b> I was assigned to implement an SMS sending feature within a short timeline. The feature required integrating with an external API that sends SMS using a specific template ID and dynamic content matching that template.</p>
+
+  <p><b>Task:</b> The objective was to complete the development and ensure the SMS was sent correctly via the external API. However, I was not provided with the actual SMS template or its ID before starting.</p>
+
+  <p><b>Action:</b> To meet the tight deadline, I decided to proceed using an existing, similar template for development and internal testing. Since our dev environment couldn't call the actual API, I assumed it would work similarly in staging/production. Unfortunately, when the feature was released for testing with the correct template ID, the SMS failed to send. I identified that there was a mismatch in the template structure.</p>
+
+  <p>Upon realizing this, I immediately informed my team lead and requested the correct template and its ID. I revised the integration accordingly, tested it thoroughly, and made sure it aligned with the actual API expectations.</p>
+
+  <p><b>Result:</b> I successfully fixed the issue and re-released the feature before the deadline. The SMS integration worked as expected and the overall release remained on schedule. From this experience, I learned the importance of validating external dependencies early, even in constrained timelines.</p>
+
 </details>
 <details>
 <summary><b>Describe a time when you led a team. What was the outcome?</b></summary>
