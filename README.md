@@ -97,26 +97,28 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 <ul>
     <li>
         <b>Situation: </b>At my previous job as a software engineer, I once found myself in disagreement with my manager over the approach to a new feature in our software application. My manager wanted to implement the feature using a certain technology stack that I believed was not the best choice for our long-term goals.
+      <p>
       <i>Recall about ID & Access Management System for PMO(Prime Minister's Office), there was discussion over design approaches for Class and Database design. There were discussions about two approaches to implementation. One approach was more focused on easy implementations and easy fetching using JPQL, which was Single Table Inheritance for the Entities Person as Visitor or Employee. But I analysed the requirement for the long term performance and data growth rate for these two entities. I found Visitors Data growth rate is much higher than the employee data growth rate. As an Employee is required to be a system user, I suggested a different approach where a lookup for Employee and Visitor is relatively efficient.</i>
+      </p>
     </li>
     <li>
         <b>Task: </b>My task was to effectively communicate my concerns and suggest an alternative approach that I believed was more beneficial for the project. 
-      <li>
+      <p>
         <i>I explained my approch and also created a small demo project for this, showing how data fetching and implementation are easy considering long-term system performance. </i>
-        </li>
+        </p>
     </li>
     <li>
         <b>Action: </b>I requested a one-on-one meeting with my manager to discuss this issue in detail. Before the meeting, I prepared a comprehensive comparison of the two technology stacks, highlighting aspects like long-term maintainability, performance, compatibility with our existing systems, and overall impact on the project timeline. During the meeting, I presented my findings in a respectful and concise manner, emphasizing my commitment to the project's success and the team's efficiency. I also made it clear that I respected his experience and perspective and was open to further discussion and compromise.
-      <li>
+      <p>
       <i> created a small demo project for this, showing how data fetching and implementation are easy, considering long-term system performance. </i>
-      </li>
+      </p>
     </li>
     <li>
         <b>Result: </b>My manager appreciated the thorough analysis and was impressed with the initiative I had taken to research the alternatives. After further discussion and consultation with the team, we decided to adopt a hybrid approach, incorporating elements from both our suggestions. This incident not only led to a more robust solution for our project but also strengthened my relationship with my manager. It taught me the importance of open communication, thorough preparation, and respect for different viewpoints in resolving professional disagreements.
     </li>
-  <li>
+  <p>
   <i> Everyone in the team were satisfied with my approach and appreciated.</i>
-    </li>
+    </p>
 </ul>
 </details>
 <details>
