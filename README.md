@@ -101,16 +101,22 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
     </li>
     <li>
         <b>Task: </b>My task was to effectively communicate my concerns and suggest an alternative approach that I believed was more beneficial for the project. 
-      <i>I explained my approch and also created a small demo project for this, showing how data fetching and implementation are easy considering long-term system performance. </i>
+      <li>
+        <i>I explained my approch and also created a small demo project for this, showing how data fetching and implementation are easy considering long-term system performance. </i>
+        </li>
     </li>
     <li>
         <b>Action: </b>I requested a one-on-one meeting with my manager to discuss this issue in detail. Before the meeting, I prepared a comprehensive comparison of the two technology stacks, highlighting aspects like long-term maintainability, performance, compatibility with our existing systems, and overall impact on the project timeline. During the meeting, I presented my findings in a respectful and concise manner, emphasizing my commitment to the project's success and the team's efficiency. I also made it clear that I respected his experience and perspective and was open to further discussion and compromise.
+      <li>
       <i> created a small demo project for this, showing how data fetching and implementation are easy, considering long-term system performance. </i>
+      </li>
     </li>
     <li>
         <b>Result: </b>My manager appreciated the thorough analysis and was impressed with the initiative I had taken to research the alternatives. After further discussion and consultation with the team, we decided to adopt a hybrid approach, incorporating elements from both our suggestions. This incident not only led to a more robust solution for our project but also strengthened my relationship with my manager. It taught me the importance of open communication, thorough preparation, and respect for different viewpoints in resolving professional disagreements.
     </li>
+  <li>
   <i> Everyone in the team were satisfied with my approach and appreciated.</i>
+    </li>
 </ul>
 </details>
 <details>
